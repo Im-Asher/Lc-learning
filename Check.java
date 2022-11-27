@@ -12,5 +12,4 @@ public class Check {
         }
         return cnt <= 1;
     }
-
 }
